@@ -18,7 +18,7 @@ Execution Steps:
 
 1. Open **script.py** in your preferred code editor.
 
-2. Modifi **token.txt** and **emails.txt**
+2. Modify **token.txt** and **emails.txt**
 
 3. In emails.txt, list the email addresses you want to consult. You can obtain this information by exporting user data from the Docker admin panel. Refer to the documentation here.
 
